@@ -23,5 +23,7 @@ public class SampleTest {
 
 
         System.out.println("Ahmet Akyol");
+
+        System.out.println("ffff");
     }
 }
