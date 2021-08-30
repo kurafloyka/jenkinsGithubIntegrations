@@ -1,9 +1,12 @@
-import org.junit.Test;
 
 public class SampleTest {
 
-
-    @Test
+    public static void main(String[] args) {
+        for (int i = 0; i < 10; i++)
+            System.out.println("Faruk akyol");
+        System.out.println("Faruk Akyol : Adana");
+    }
+   /* @Test
     public void simpleTest(){
 
 
@@ -25,5 +28,5 @@ public class SampleTest {
         System.out.println("Ahmet Akyol");
 
         System.out.println("ffff");
-    }
+    }*/
 }
